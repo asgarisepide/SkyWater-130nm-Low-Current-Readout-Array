@@ -33,4 +33,4 @@ SkyWater 130nm CMOS
 
 ## Tools
 
-Cadence Virtuoso | Analog IC Design | Custom Layout
+Open source tools: Xscheme | Magic | Ngspice | Klayout
