@@ -24,10 +24,10 @@ This project introduces a system on chip (SOC) including a high-speed, low-power
 
 Figure 1 depicts the general manner of operation of nanopore-based sequencing (i.e., DNA moves through a nanopore protein and thus induces a small current signature indicative of the DNA’s make-up) and the key DROIC and BPU blocks that enable it.
 
-The novelty of this design is the use of a new readout method in each channel to reduce power consumption compared to the previous works [1], [2], [3] as well as an in-pixel ADC, shown in Figure 2, to overcome substrate and switching noise.
+The novelty of this design is the use of a new readout method for each channel to reduce power consumption compared to previous work, as well as an in-pixel ADC to mitigate substrate and switching noise.
 
+To test, an on-chip circuit will be defined to generate the pico-ampere currents. Also, a timing technique will be used to separate the digital and analog circuitry operating times.
 
-In order to test an on-chip circuits will be defined to generate the pico-ampere currents. Also, a timing technique will be used to separate the digital and analog circuitry operating times.
 ## Key Highlights
 
 - Multi-channel readout array architecture
