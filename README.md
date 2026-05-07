@@ -18,7 +18,7 @@ This design contains a mixed-signal readout array and a Bioinformatics Processin
 - Stores the digital data in a memory
 - Read the memory and analyse the data to identify the DNA sequence
 
-- ## Description
+## Description
 
 This project introduces a system on chip (SOC) including a high-speed, low-power mixed-signal readout array (the DROIC), and a RISC-V microprocessor (the BPU) for analyzing the readout data. The proposed DROIC system consists of an array of channels, capable of simultaneous amplification, filtering, and digitization of pico-ampere range current signals with sufficient accuracy and speed.
 
