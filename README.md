@@ -1,6 +1,6 @@
 # Low-Current Readout Array for NIST Nanotechnology Accelerator Project
 
-Custom integrated circuit developed for ultra-low current sensing applications in the NIST Nanotechnology Accelerator Project.
+A custom integrated circuit developed for ultra-low current sensing applications in the NIST Nanotechnology Accelerator Project.
 
 ## SkyWater 130nm Tapeout Completed
 
