@@ -48,7 +48,7 @@ To test, an on-chip circuit will be defined to generate the pico-ampere currents
 
 ## Technology
 
-SkyWater 130nm CMOS
+SkyWater 130-nm CMOS
 
 ## Tools
 
